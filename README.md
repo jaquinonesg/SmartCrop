@@ -14,4 +14,5 @@ Guardar, salir y ejecutar:
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key 089EBE08314DF160
 sudo apt-get update
 sudo apt-get install qgis python-qgis qgis-plugin-grass
+sudo apt-get install postgresql-9.x-postgis-scripts
 ```
